@@ -5,3 +5,13 @@
 *test*
 ##test##
 ######test######
+# # test # #
+# # # test test # # #
+* test 
+* b
+* c
+* -a
+ 
+
+
+
